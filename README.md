@@ -1,6 +1,6 @@
 👋 Hi, I’m Victor, nice to meet you.
 
-I’m interested in learning about coding, focusing on data analises for bioinformatics studies and as gaming developing as a hobby.
+I’m interested in learning about coding, focusing on data analises for bioinformatics studies and gaming developing as a hobby.
 
 I’m currently learning the basics of python.
 
